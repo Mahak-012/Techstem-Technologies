@@ -1,62 +1,62 @@
-🏫 Techstem Technologies - Institute Website
-Live Demo GitHub Repo
+# 🏫 Techstem Technologies — Institute Website
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://techstem-technologies.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahak-webdev/)
+[![GitHub](https://img.shields.io/badge/GitHub-Mahak--012-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahak-012)
 
+---
 
-📌 Note: This project is built as a practice exercise to demonstrate my frontend design skills. I am fully capable of building custom, responsive websites tailored to your specific business or institutional needs!
+## 📖 About
 
+A professional, modern, and fully responsive **institute website** designed for Techstem Technologies.
 
+Clean layout showcasing courses, services, and contact information — built with pure **HTML, CSS, and JavaScript** for optimal performance and fast load times.
 
-🌐 Live Demo
-🚀 Check out the live application here: https://techstem-technologies.vercel.app/
+---
 
+## ✨ Features
 
+- 📱 **Fully Responsive** — perfect on desktop, tablet, and mobile
+- 🎨 **Modern UI/UX** — clean design with smooth hover effects
+- 📚 **Courses Section** — attractive display of available programs
+- 📝 **Contact Form** — functional and well-designed inquiry section
+- ⚡ **Fast & Lightweight** — pure HTML/CSS/JS, no frameworks needed
 
-📖 About The Project
-A professional, modern, and fully responsive website designed for an educational institute. It features a clean layout to showcase courses, services, and contact information effectively. This project highlights my strong foundation in responsive web design, CSS layouts, and interactive UI elements.
+---
 
+## 🛠️ Tech Stack
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-✨ Key Features
-📱 Fully Responsive: Looks perfect on desktops, tablets, and mobile devices.
-🎨 Modern UI/UX: Clean and professional design with smooth hover effects.
-📚 Courses Section: Attractive display of available courses and programs.
-📝 Contact Form: Functional and well-designed contact section for inquiries.
+---
 
+## 🚀 Run Locally
 
-
-⚡ Fast & Lightweight: Built with pure HTML, CSS, and JS for optimal performance.
-🛠️ Tech Stack
-HTML5
-
-CSS3
-
-JavaScript
-
-Vercel
-
-
-
-🚀 Run Locally
-To run this project on your local machine, follow these steps:
-
-Clone the project
+```bash
+# Clone the repository
 git clone https://github.com/Mahak-012/Techstem-Technologies.git
-Go to the project directory
-bash
 
+# Go to project directory
 cd Techstem-Technologies
-Open index.html in your browser
+```
 
-(No installation required! Just double-click the file or use a Live Server extension in VS Code)
+> No installation required! Simply open `index.html` in your browser
+> or use the **Live Server** extension in VS Code 🚀
 
+---
 
+## 📬 Connect With Me
 
-📬 Let's Connect!
-If you have a project requirement or want to collaborate, feel free to reach out!
+| Platform | Link |
+|----------|------|
+| 🌐 Live Demo | [techstem-technologies.vercel.app](https://techstem-technologies.vercel.app/) |
+| 💼 LinkedIn | [linkedin.com/in/mahak-webdev](https://www.linkedin.com/in/mahak-webdev/) |
+| 🐙 GitHub | [github.com/Mahak-012](https://github.com/Mahak-012) |
+| 📧 Email | mahakmimi01@gmail.com |
 
-GitHub: Mahak-012
-LinkedIn: https://www.linkedin.com/in/mahak-webdev/
+---
 
-
-Email: mahakmimi01@gmail.com
+<p align="center">Made with 💜 by Mahak</p>
